@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/abdullahkus/todo-list-with-locale-storage/master/todo-list-with-locale-storage.png" />
 # todo-list
 
 This template should help get you started developing with Vue 3 in Vite.
